@@ -173,6 +173,7 @@ padding: 70px 265px;
 .itable td {
 	vertical-align: middle;
 }
+.itable td b { font-size: 20px; }
 th{
 	font-size: 24px;
 }
@@ -218,10 +219,13 @@ input[type="text"], select, textarea {
 	background-color: #ccc;
 	font-weight: bold;
 }
+.inner table {padding: 26px 25px;}
 textarea {
 	width: 95%;
 }
+
 .container .btn2 { font-weight:bold;font-size: 14px;}
+.fmenu{ background-color:#000; color:#fff; font-size:12px; width:100%; text-align:center; padding:30px 0; }
 
 .ptext p, .ptext h2 { margin-bottom:20px; width: 75%; color:#fff; }
 /*td p {color:#fff;}*/
