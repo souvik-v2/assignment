@@ -201,6 +201,28 @@ th{
 	padding:105px;
 	background-color:#202833;
 }
+.text3 {
+    float: right;
+    padding: 65px 30px;
+    width: 100%;
+}
+input[type="text"], select, textarea {
+    width: 46%;
+	padding: 12px;
+	border: 1px solid #ccc;
+	margin-top: 6px;
+	margin-bottom: 16px;
+	resize: vertical;
+	float: left;
+	margin-right: 20px;
+	background-color: #ccc;
+	font-weight: bold;
+}
+textarea {
+	width: 95%;
+}
+.container .btn2 { font-weight:bold;font-size: 14px;}
+
 .ptext p, .ptext h2 { margin-bottom:20px; width: 75%; color:#fff; }
 /*td p {color:#fff;}*/
 .one {width: 8.33%;}
